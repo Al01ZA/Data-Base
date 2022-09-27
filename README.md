@@ -8,4 +8,4 @@ https://docs.google.com/document/d/1JAeBQ81nwBwy7TkREaY0D6MfdIq7SFs_zzxkdZjcfNE/
 
 https://docs.google.com/document/d/1W168MusbkfkZQKVXXHCWYhAGxc7T_rcr/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# Технология-работы-с-базами-данных
 
-https://docs.google.com/document/d/1L-rb-n8TQn4mKZvDgxxkx09YlothAt13oLZyKaupJtU/edit?usp=drivesdk# ER-диаграмма-данные-сотрудников
+https://docs.google.com/document/d/1z66cJ0rF0BQdYSJbIhscqTROyB2th0xP3W3B9LjymAk/edit?usp=drivesdk# запросы SQL

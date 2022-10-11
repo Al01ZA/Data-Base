@@ -13,3 +13,5 @@ https://docs.google.com/document/d/1z66cJ0rF0BQdYSJbIhscqTROyB2th0xP3W3B9LjymAk/
 https://docs.google.com/document/d/1C6p6P1trQQmEpgA4k7b6rV9DexwhOn9VcN_MlNGnWJw/edit?usp=drivesdk# Конспект Представления,процедуры,функции и триггеры
 
 https://docs.google.com/document/d/10jSKsqdJ7k4i_MFs_rR6uJ8SrNp_oeIzCM0mOChSuIE/edit?usp=drivesdk# Внешний ключ. Консистентность. Согласованность данных. 
+
+https://docs.google.com/document/d/1GpqWalJlbmHB0ET3IZafYjWnE4Zj74UJgQ9gM769Yfc/edit?usp=drivesdk#Связь многие-ко-многим

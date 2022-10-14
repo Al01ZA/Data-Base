@@ -15,3 +15,5 @@ https://docs.google.com/document/d/1C6p6P1trQQmEpgA4k7b6rV9DexwhOn9VcN_MlNGnWJw/
 https://docs.google.com/document/d/10jSKsqdJ7k4i_MFs_rR6uJ8SrNp_oeIzCM0mOChSuIE/edit?usp=drivesdk# Внешний ключ. Консистентность. Согласованность данных. 
 
 https://docs.google.com/document/d/1GpqWalJlbmHB0ET3IZafYjWnE4Zj74UJgQ9gM769Yfc/edit?usp=drivesdk#Связь многие-ко-многим
+
+https://docs.google.com/document/d/1RoTOcdDjauxJF9z3-ewnAfBHHuQYP-eNzPA4a1JKJFU/edit?usp=drivesdk# Таблицы "фитнес-центр"

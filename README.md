@@ -10,3 +10,5 @@ https://docs.google.com/document/d/1RoTOcdDjauxJF9z3-ewnAfBHHuQYP-eNzPA4a1JKJFU/
 https://docs.google.com/document/d/1GpqWalJlbmHB0ET3IZafYjWnE4Zj74UJgQ9gM769Yfc/edit?usp=drivesdk# Связь многие-ко-многим. Объединение таблиц
 https://docs.google.com/document/d/145pL4_DYspoiRlTazcoUi4hkwSr4iT6l5zuUq3oZcWo/edit?usp=drivesdk# Ответы на вопросы с собеседования по SQL
 https://docs.google.com/document/d/1WPGlzAOXhs5Qb0klkQx5giUpT7S4guyG/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# конспект Основные положения 
+
+https://docs.google.com/document/d/1bIebu-zW4hkZHPCP1HTZY1ScEVPFRFXbxT7tFXYwO88/edit?usp=drivesdk# авиакомпания

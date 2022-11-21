@@ -13,3 +13,4 @@ https://docs.google.com/document/d/1WPGlzAOXhs5Qb0klkQx5giUpT7S4guyG/edit?usp=dr
 
 https://docs.google.com/document/d/1bIebu-zW4hkZHPCP1HTZY1ScEVPFRFXbxT7tFXYwO88/edit?usp=drivesdk# авиакомпания
 https://docs.google.com/spreadsheets/d/1C9DaOkfYfvVqjxAJCNg0XuGO8UE3ZdDZ/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# Таблица ексель
+https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/edit?usp=drivesdk# Таблица из ексель в SQL

@@ -19,3 +19,5 @@ https://docs.google.com/document/d/1OPWwf9-aGV4xhkfQQAeKdsY7je8-U2z5yoCFDUyf9x8/
 https://docs.google.com/spreadsheets/d/1y0EsjzdRSii5K9kvh7wPHEoBjVrYOUgO/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# математика
 
 https://docs.google.com/document/d/1o3xrvmqRCDBUYAWtmB2eyx3esMffPrtsKXyncBc3zok/edit?usp=drivesdk# Демо экзамен. Импорт данных в базу данных
+
+#создание бд 13.02 Иванова Письменская Золотова https://docs.google.com/document/d/1lDd-ihauWJlaaKmjq1SpONK0NS1RoUK8Iux4NTjhilU/edit?usp=drivesdk

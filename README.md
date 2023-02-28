@@ -21,3 +21,5 @@ https://docs.google.com/spreadsheets/d/1y0EsjzdRSii5K9kvh7wPHEoBjVrYOUgO/edit?us
 https://docs.google.com/document/d/1o3xrvmqRCDBUYAWtmB2eyx3esMffPrtsKXyncBc3zok/edit?usp=drivesdk# Демо экзамен. Импорт данных в базу данных
 
 #создание бд 13.02 Иванова Письменская Золотова https://docs.google.com/document/d/1lDd-ihauWJlaaKmjq1SpONK0NS1RoUK8Iux4NTjhilU/edit?usp=drivesdk
+
+https://docs.google.com/document/d/1bQVhwpLGyO8T6cphwiDTW7T30G4dmbzVlCAki4cGh_o/edit?usp=drivesdk# прохождение learndb

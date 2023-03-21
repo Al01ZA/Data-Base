@@ -23,3 +23,6 @@ https://docs.google.com/document/d/1o3xrvmqRCDBUYAWtmB2eyx3esMffPrtsKXyncBc3zok/
 #создание бд 13.02 Иванова Письменская Золотова https://docs.google.com/document/d/1lDd-ihauWJlaaKmjq1SpONK0NS1RoUK8Iux4NTjhilU/edit?usp=drivesdk
 
 https://docs.google.com/document/d/1bQVhwpLGyO8T6cphwiDTW7T30G4dmbzVlCAki4cGh_o/edit?usp=drivesdk# прохождение learndb
+
+
+ER диаграмма благодать https://docs.google.com/document/d/16hsMhM15yLfi2DJfdVmyThblAUvULnQgQVaWPVQTV2g/edit?usp=sharing
